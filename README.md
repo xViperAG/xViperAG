@@ -1,6 +1,16 @@
-### Hi there 👋
+<p align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <a href="https://github.com/xViperAG">
+      <img src="https://github-readme-stats.vercel.app/api/?username=xViperAG&theme=dark&show_icons=true"/>
+    </td>
+  </tr>
+</p>
+<p align="center">
+https://discord.gg/3CXrkvQVds
+</p>
 
-<!--
+<!--### Hi there 👋
 **xViperAG/xViperAG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
