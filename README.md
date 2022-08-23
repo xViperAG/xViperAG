@@ -6,10 +6,12 @@
 </div>
 <p align="center">
   <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <a href="https://github.com/xViperAG">
-      <img src="https://github-readme-stats.vercel.app/api/?username=xViperAG&theme=dark&show_icons=true"/>
-    </td>
+   <h2 align="center">Github Stats</h2>
+    <div align="center">
+      [![Baby Z's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustLazzy&theme=blue-green)](https://github.com/JustLazzy)
+    </BR>
+      [![Baby Z's github stats](https://github-readme-stats.vercel.app/api?username=JustLazzy&theme=blue-green)](https://github.com/JustLazzy)
+    </div>
   </tr>
 </p>
 <p align="center">
