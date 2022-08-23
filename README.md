@@ -1,7 +1,7 @@
 <div align="center">
   <h1>xViperAG</h1>
   <kbd>
-  <img src="https://media.discordapp.net/attachments/420673025214644236/1011442827043012658/xViperAG_2.png?width=810&height=456">
+  <img src="https://media.discordapp.net/attachments/420673025214644236/1011442827043012658/xViperAG_2.png" width="405">
   </kbd>
   <h3 align="center">Developer for OuroborosRP and Project Sloth<h3>
 </div>
