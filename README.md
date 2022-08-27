@@ -13,8 +13,15 @@
   </tr>
 </p>
 <p align="center">
+Join My Development Discord Below
 https://discord.gg/3CXrkvQVds
 </p>
+<div align="center">
+  <kbd>
+  <img src="https://media.discordapp.net/attachments/996342018127175751/1001672364813189231/ouroborosresized.png" width="405">
+  </kbd>
+  <h3 align="center">Join My RP Server Discord Here - https://discord.gg/ouroborosrp<h3>
+</div>
 
 <!--### Hi there 👋
 **xViperAG/xViperAG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
