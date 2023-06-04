@@ -18,12 +18,12 @@ https://discord.gg/3CXrkvQVds
 </p>
 <div align="center">
   <kbd>
-  <img src="https://media.discordapp.net/attachments/996342018127175751/1001672364813189231/ouroborosresized.png" width="200">
+  <img src="https://media.discordapp.net/attachments/996342018127175751/1114707110085787780/2000_50.png?width=701&height=701" width="200">
   </kbd>
   <h3 align="center">Join My RP Server Discord Here<h3>
 </div>
 <p align="center">
-https://discord.gg/ouroborosrp
+https://discord.gg/DX8zX6nTT9
 </p>
 
 ## - xViperAG
