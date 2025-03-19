@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/420673025214644236/1011442827043012658/xViperAG_2.png" width="720">
+  <img src="https://i.postimg.cc/xjFwQtzg/Untitled-design-1.png" width="720">
 </div>
 
 ## 💬 About [xViperAG](https://github.com/xViperAG) 
-👋 Hi! I'm xViperAG, and I am an active developer for YggdrasilRP, as well as a maintainer for QR RedM and owner of Morningstar Development.
+👋 Hi! I'm xViperAG, and I am an active developer for Rising Hope, as well as a maintainer and owner of Morningstar Development.
 
-I started doing development work back in 2022, when I was looking to find a new server and wanted to start fresh, and with the knowledge that I had gained as I started working on my major in Computer Science in '21, I decided to kick start my journey from there.
+I started doing development work back in 2022, when I was looking to find a new server and wanted to start fresh, and with the knowledge that I had gained as I started working on my major in Computer Science / Computer Networking and Cybersecurity in '21, I decided to kick start my journey from there.
 
 <p align="center">
   <tr>
